@@ -1,0 +1,26 @@
+.item {
+    height: 300px;
+    width: 100vw;
+    background-image: url("https://media.istockphoto.com/id/1361394182/photo/funny-british-shorthair-cat-portrait-looking-shocked-or-surprised.jpg?s=612x612&w=0&k=20&c=6yvVxdufrNvkmc50nCLCd8OFGhoJd6vPTNotl90L-vo=");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.toolbar {
+    padding: 10px;
+    background-color: pink;
+}
+
+.inline {
+    display: inline-block;
+}
+
+.sidebar {
+    padding: 20px;
+    background-color: #ededed;
+}
+
+img {
+    height: 200px;
+}
